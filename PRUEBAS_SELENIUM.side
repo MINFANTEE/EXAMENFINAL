@@ -1,0 +1,190 @@
+{
+  "id": "bb29ff30-e35c-4f08-bb22-43e0f699b2bc",
+  "version": "2.0",
+  "name": "final",
+  "url": "https://localhost:7143",
+  "tests": [{
+    "id": "d786d86d-c7fd-4335-9088-dcc740014309",
+    "name": "Nueva Cuenta",
+    "commands": [{
+      "id": "5afdd582-6487-4218-b775-5893a9fafa0c",
+      "comment": "",
+      "command": "open",
+      "target": "/cuenta/index",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f962c5d-6594-4946-89ba-8ba125c93cae",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "771x415",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e39d27cb-7d7d-4311-8997-a86f115ed06b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Nueva Cuenta",
+      "targets": [
+        ["linkText=Nueva Cuenta", "linkText"],
+        ["css=.btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Nueva Cuenta')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/cuenta/create')]", "xpath:href"],
+        ["xpath=//main/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Nueva Cuenta')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5bb148b1-5b39-46a8-8d8c-c54505b20b41",
+      "comment": "",
+      "command": "click",
+      "target": "id=nombre",
+      "targets": [
+        ["id=nombre", "id"],
+        ["name=nombre", "name"],
+        ["css=#nombre", "css:finder"],
+        ["xpath=//input[@id='nombre']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3df86c53-cbca-42ba-835e-e1c2d8ffd4ab",
+      "comment": "",
+      "command": "type",
+      "target": "id=nombre",
+      "targets": [
+        ["id=nombre", "id"],
+        ["name=nombre", "name"],
+        ["css=#nombre", "css:finder"],
+        ["xpath=//input[@id='nombre']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "ahorros"
+    }, {
+      "id": "213bf2c5-db4e-4d54-a3b7-b2e313c17144",
+      "comment": "",
+      "command": "click",
+      "target": "id=categoria",
+      "targets": [
+        ["id=categoria", "id"],
+        ["name=categoria", "name"],
+        ["css=#categoria", "css:finder"],
+        ["xpath=//input[@id='categoria']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7e2bbeb-7a17-4e4d-87dc-e77693b9259d",
+      "comment": "",
+      "command": "type",
+      "target": "id=categoria",
+      "targets": [
+        ["id=categoria", "id"],
+        ["name=categoria", "name"],
+        ["css=#categoria", "css:finder"],
+        ["xpath=//input[@id='categoria']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "individual"
+    }, {
+      "id": "c1bdc623-6346-492e-9ee0-8e56aaf5ca21",
+      "comment": "",
+      "command": "click",
+      "target": "id=saldoInicial",
+      "targets": [
+        ["id=saldoInicial", "id"],
+        ["name=saldoInicial", "name"],
+        ["css=#saldoInicial", "css:finder"],
+        ["xpath=//input[@id='saldoInicial']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec912605-8352-4824-92ec-099ee27e297e",
+      "comment": "",
+      "command": "type",
+      "target": "id=saldoInicial",
+      "targets": [
+        ["id=saldoInicial", "id"],
+        ["name=saldoInicial", "name"],
+        ["css=#saldoInicial", "css:finder"],
+        ["xpath=//input[@id='saldoInicial']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "123"
+    }, {
+      "id": "99aa3828-742e-494a-ab7d-7f0b7d4004c9",
+      "comment": "",
+      "command": "click",
+      "target": "id=moneda",
+      "targets": [
+        ["id=moneda", "id"],
+        ["name=moneda", "name"],
+        ["css=#moneda", "css:finder"],
+        ["xpath=//input[@id='moneda']", "xpath:attributes"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e71a54f5-ef7d-4dfd-8028-78cb43b057c5",
+      "comment": "",
+      "command": "type",
+      "target": "id=moneda",
+      "targets": [
+        ["id=moneda", "id"],
+        ["name=moneda", "name"],
+        ["css=#moneda", "css:finder"],
+        ["xpath=//input[@id='moneda']", "xpath:attributes"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": "sol"
+    }, {
+      "id": "9ae3df24-cc94-4e5b-a262-4917595e930c",
+      "comment": "",
+      "command": "click",
+      "target": "id=TipoCuentaId",
+      "targets": [
+        ["id=TipoCuentaId", "id"],
+        ["name=TipoCuentaId", "name"],
+        ["css=#TipoCuentaId", "css:finder"],
+        ["xpath=//input[@id='TipoCuentaId']", "xpath:attributes"],
+        ["xpath=//div[5]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c00a7ad5-bac5-4b55-a81b-73321506aff9",
+      "comment": "",
+      "command": "type",
+      "target": "id=TipoCuentaId",
+      "targets": [
+        ["id=TipoCuentaId", "id"],
+        ["name=TipoCuentaId", "name"],
+        ["css=#TipoCuentaId", "css:finder"],
+        ["xpath=//input[@id='TipoCuentaId']", "xpath:attributes"],
+        ["xpath=//div[5]/input", "xpath:position"]
+      ],
+      "value": "123"
+    }, {
+      "id": "f3c7d012-e7e6-410e-9260-abfa73b8922e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Guardar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "1348f2b0-70c4-4d6d-9746-d3c26d9e6c1f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d786d86d-c7fd-4335-9088-dcc740014309"]
+  }],
+  "urls": ["https://localhost:7143/"],
+  "plugins": []
+}

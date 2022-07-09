@@ -1,0 +1,111 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06a11272_002D38c6_002D4327_002Daa3c_002D310916667c29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="EditViewCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.EditViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=08fc3dc7_002Df225_002D4229_002D9861_002D316564b394ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexViewCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaTransaccionControllerTest.IndexViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10193a36_002D7243_002D4854_002Dae51_002Dae485aa2808a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeleteViewCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.DeleteViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12c5c1e7_002D7849_002D4b24_002Db579_002De8d3f663611e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ObtenerTodosTestCaso01 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.CuentaRepositorioTest.ObtenerTodosTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1426bf42_002D76a7_002D47d9_002D9d32_002D37b678188951/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ObtenerTodosTestCaso01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.TipoCuentaRepositorioTest.ObtenerTodosTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b967f20_002D4e5c_002D4d31_002Dad97_002D4d7012e20fa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateViewCase01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.CreateViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1bc50b2b_002D56bf_002D45db_002D88a3_002D5c5def4298c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="postCrearCase1Ok" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.postCrearCase1Ok&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1db4f80b_002D2ad5_002D452c_002D90e4_002Dd4c67342d6bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaControllerTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers/f:CuentaControllerTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20414753_002D1ee5_002D401e_002D835a_002D59d38edab193/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateViewCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.CreateViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2dc95a5d_002D3aef_002D4287_002Da99b_002D273a7838d13c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexViewCase01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.IndexViewCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3244408e_002Df0c4_002D46be_002Db322_002D322bb4c796df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="postCrearCharsh" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.postCrearCharsh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32d5e025_002De65f_002D4b1e_002D831f_002D79a41dcde8a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaControllerTest.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers/f:CuentaControllerTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39452609_002D27d8_002D43ea_002D9229_002D523013d7312f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CuentaRepositorioTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.CuentaRepositorioTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=45338cc7_002Dd92d_002D4e21_002D8794_002Daa37671bf2fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="postEditControllerCaso02" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.postEditControllerCaso02&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=618ba7b6_002D4fec_002D4c87_002D8197_002D93f29c0debb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Controllers #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFolder&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers&lt;/ProjectFolder&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=671cf7c6_002Da4c6_002D47b8_002D9c77_002D15543a17db5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaControllerTest.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers/f:CuentaControllerTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6ccb10e3_002De20c_002D414d_002D807d_002Daff053295ab2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaRepositorioTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Repositories/f:CuentaRepositorioTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91668b19_002D5ea7_002D487f_002Dad18_002D0fc6d1a39372/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ObtenerTodosTestCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.TipoCuentaRepositorioTest.ObtenerTodosTestCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a851c510_002Da3ef_002D458f_002Dab70_002D76d11d5f8f46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TipoCuentaRepositorioTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Repositories/f:TipoCuentaRepositorioTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afa8f1ce_002Dcfce_002D4135_002D921b_002D171e92605aaa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ObtenerTodosTestCaso01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.CuentaRepositorioTest.ObtenerTodosTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b795f1f0_002Db168_002D44a3_002Da2d8_002D51d96892aabf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaRepositorioTest.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Repositories/f:CuentaRepositorioTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8e4e384_002Dd78f_002D439d_002D88ba_002D6aa6e2c730cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Controllers.CuentaControllerTest.IndexCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9590fbc_002D7452_002D43a5_002Da3a3_002Dc1e55843e90e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Controllers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFolder&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers&lt;/ProjectFolder&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd2928c3_002D83eb_002D457b_002D8cac_002D3123467e2867/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ObtenerTodosTestCaso01 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::92747E0B-FBAB-42BC-B2AA-5597DFD282D1::net6.0::FinancialApp.Tests.Repositories.CuentaRepositorioTest.ObtenerTodosTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d62f2cd3_002Ddd57_002D42fd_002D812f_002D6cbd256f8276/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Repositories" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Usuario\Documents\RIDER\FINAL2022INFANTE\FINANZASAPP2022_TEST" Presentation="&amp;lt;FINANZASAPP2022_TEST&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e4980750_002Dc1be_002D4209_002D9b83_002Df56a85a6482e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CuentaControllerTest.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;92747E0B-FBAB-42BC-B2AA-5597DFD282D1/d:Controllers/f:CuentaControllerTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

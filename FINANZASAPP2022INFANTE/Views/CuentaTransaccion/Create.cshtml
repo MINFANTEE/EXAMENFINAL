@@ -1,0 +1,45 @@
+﻿@using Microsoft.AspNetCore.Components.Forms
+
+<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Nueva Cuenta</h1>
+            <form action="/cuentaTransaccion/create?cuentaId=@ViewBag.CuentaId" method="post">
+                <div>
+                    <label for="idCuenta">idCuenta</label>
+                    <select class="form-select" name="idCuenta" id="idCuenta">
+                        <option value="INGRESO">Ingreso</option>
+                        <option value="GASTO">Gasto</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="fecha">fecha</label>
+                    <input type="datetime-local" class="form-control" Name="fecha" id="fecha" value="@Model.fecha">
+                    @Html.ValidationMessage("fecha")
+                </div>
+
+                <div class="mb-3">
+                    <label for="descripcion">descripcion</label>
+                    <input type="text" class="form-control" Name="descripcion" id="descripcion" value="@Model.descripcion">
+                </div>
+                
+                <div class="mb-3">
+                    <label for="monto">monto</label>
+                    <input type="text" class="form-control" Name="monto" id="monto" value="@Model.monto">
+                </div>
+                
+                <div class="mb-3">
+                    <label for="tipo">tipo</label>
+                    <input type="text" class="form-control" Name="tipo" id="tipo" value="@Model.tipo">
+                </div>
+                
+
+                <br>
+                <button class="btn btn-primary">Guardar</button>
+                <a href="/cuenta/index" class="btn btn-link">Cancelar</a>
+            </form>
+        </div>
+    </div>
+
+</div>

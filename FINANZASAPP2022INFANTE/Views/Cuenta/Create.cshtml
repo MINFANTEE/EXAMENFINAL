@@ -1,0 +1,50 @@
+﻿@using Microsoft.AspNetCore.Components.Forms
+
+<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Nueva Cuenta</h1>
+            <form action="/cuenta/create" method="post">
+                
+                <div class="mb-3">
+                    <label for="nombre">nombre</label>
+                    <input type="text" class="form-control" Name="nombre" id="nombre" value="@Model.nombre">
+                    @Html.ValidationMessage("nombre")
+                </div>
+                
+                <div class="mb-3">
+                    <label for="nombre">categoria</label>
+                    <input type="text" class="form-control" Name="categoria" id="categoria" value="@Model.categoria">
+                    @Html.ValidationMessage("categoria")
+                </div>
+                
+                
+                <div class="mb-3">
+                    <label for="saldoInicial">saldoInicial</label>
+                    <input type="text" class="form-control" Name="saldoInicial" id="saldoInicial" value="@Model.saldoInicial">
+                    @Html.ValidationMessage("saldoInicial")
+                </div>
+                
+                
+                <div class="mb-3">
+                    <label for="moneda">moneda</label>
+                    <input type="text" class="form-control" Name="moneda" id="moneda" value="@Model.moneda">
+                    @Html.ValidationMessage("moneda")
+                </div>
+                
+                
+                <div class="mb-3">
+                    <label for="TipoCuentaId">TipoCuentaId</label>
+                    <input type="text" class="form-control" Name="TipoCuentaId" id="TipoCuentaId" value="@Model.TipoCuentaId">
+                    @Html.ValidationMessage("TipoCuentaId")
+                </div>
+                
+                
+                <br>
+                <button class="btn btn-primary">Guardar</button>
+                <a href="/cuenta/index" class="btn btn-link">Cancelar</a>
+            </form>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,31 @@
+﻿<h1 id="TituloTransaccion"> Transacciones</h1>
+
+
+<a href="/cuentaTransaccion/create?cuentaId=@ViewBag.CuentaId">Nueva Transacción</a>
+<table class="table">
+    <thead>
+    <tr>
+        
+        <td>Cuenta</td>
+        <th>Fecha</th>
+        <td>Descripcion</td>
+        <th>Monto</th>
+        <th>tipo</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.idCuenta</td>
+            <td>@item.fecha</td>
+            <td>@item.descripcion</td>
+            <td>@item.monto</td>
+            <td>@item.tipo</td>
+        </tr>
+    }    
+    </tbody>
+    
+    <h1>Total: @ViewBag.Total</h1>
+    
+</table>
